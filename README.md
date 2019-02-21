@@ -34,7 +34,7 @@ pip install numpy
 ```
 ![](https://github.com/exitmsconfig/Hacking/blob/master/img/cnn_test.png)
 
-[详相说明相关截图](https://github.com/exitmsconfig/Hacking#基于机器学习tensorflow的复杂验证码识别)
+[详相说明相关截图](https://github.com/exitmsconfig/hack.python/blob/master/res/doc/基于机器学习tensorflow的复杂验证码识别)
 
 总结文档：[基于机器学习(TensorFlow)的复杂验证码识别.pdf](https://github.com/exitmsconfig/hack.python/blob/master/res/doc/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0(TensorFlow)%E7%9A%84%E5%A4%8D%E6%9D%82%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB.pdf)
 
